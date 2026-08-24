@@ -7,3 +7,7 @@
 ## Practical 2 - 18/8/26
 
 - Build a regression model to predict a business metric, such as sales or customer churn, based on relevant features.
+
+## Practical 3 - 25/8/26
+
+- Write a program to apply different regression algorithms, such as linear regression, decision trees, or random forests, and compare their performance using evaluation metrics like Mean Squared Error (MSE) or R-squared.
