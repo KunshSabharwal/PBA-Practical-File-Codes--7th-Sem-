@@ -11,3 +11,7 @@
 ## Practical 3 - 25/8/26
 
 - Write a program to apply different regression algorithms, such as linear regression, decision trees, or random forests, and compare their performance using evaluation metrics like Mean Squared Error (MSE) or R-squared.
+
+## Practical 4 - 1/9/26
+
+- Perform a classification analysis to predict a binary or multi-class business outcome, such as customer segmentation or product categorization. Experiment with classification algorithms like logistic regression, support vector machines (SVM), or decision trees. Evaluate the models using metrics such as accuracy, precision, recall, and F1-score.
