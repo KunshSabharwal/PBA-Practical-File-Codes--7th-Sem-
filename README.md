@@ -15,3 +15,7 @@
 ## Practical 4 - 1/9/26
 
 - Perform a classification analysis to predict a binary or multi-class business outcome, such as customer segmentation or product categorization. Experiment with classification algorithms like logistic regression, support vector machines (SVM), or decision trees. Evaluate the models using metrics such as accuracy, precision, recall, and F1-score
+
+## Practical 5 - 8/9/26
+
+- To apply time series forecasting techniques to predict future business trends or product/service demand.
