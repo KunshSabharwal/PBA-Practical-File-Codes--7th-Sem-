@@ -18,4 +18,8 @@
 
 ## Practical 5 - 8/9/26
 
-- To apply time series forecasting techniques to predict future business trends or product/service demand.
+- To apply time series forecasting techniques to predict future business trends or product/service demand
+
+## Practical 6 - 15/9/26
+
+- To investigate the impact of feature selection and feature engineering techniques on predictive modeling performance
