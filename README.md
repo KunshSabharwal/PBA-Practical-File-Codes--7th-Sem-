@@ -23,3 +23,7 @@
 ## Practical 6 - 15/9/26
 
 - To investigate the impact of feature selection and feature engineering techniques on predictive modeling performance
+
+## Practical 7 - 22/9/26
+
+- Write a program to experiment with different methods such as correlation analysis, stepwise regression, or Recursive Feature Elimination (RFE) to identify the most relevant features. Compare the performance of models with and without feature engineering
