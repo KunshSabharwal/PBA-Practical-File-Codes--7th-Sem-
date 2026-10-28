@@ -27,3 +27,15 @@
 ## Practical 7 - 22/9/26
 
 - Write a program to experiment with different methods such as correlation analysis, stepwise regression, or Recursive Feature Elimination (RFE) to identify the most relevant features. Compare the performance of models with and without feature engineering
+
+## Practical 8 - 27/10/26
+
+- Write a program to explore the effectiveness of ensemble methods, such as bagging, boosting, or stacking, in improving predictive performance.
+
+## Practical 9 - 27/10/26
+
+- Write a program to Analyze textual data, such as customer reviews or social media comments, to extract sentiment and gain insights into customer opinions. Apply techniques like Natural Language Processing (NLP), text preprocessing, and sentiment analysis algorithms to classify text into positive, negative, or neutral sentiments.
+
+## Practical 10 - 3/11/26
+
+- Write a program to analyze the resulting customer segments based on demographic, behavioral, or transactional characteristics to identify distinct customer groups and target them with tailored marketing strategies.
